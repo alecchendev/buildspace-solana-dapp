@@ -1,0 +1,7 @@
+gif-portal-starter/node_modules
+myepicproject/.anchor
+myepicproject/.DS_Store
+myepicproject/target
+myepicproject/**/*.rs.bk
+myepicproject/node_modules
+myepicproject/test-ledger/
